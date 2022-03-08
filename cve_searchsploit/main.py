@@ -248,7 +248,7 @@ if platform.system() == 'Windows':
     def usage():
         print ("+------------------------------------+")
         print ("|          cve_searchsploit          |")
-        print ("| Copyright 2022, Anant Kaul |")
+        print ("|     Copyright 2022, Anant Kaul     |")
         print ("+------------------------------------+")
         print ("")
         print ("Usage:")
@@ -536,7 +536,7 @@ if platform.system() == 'Linux':
     def usage():
         print ("+------------------------------------+")
         print ("|          cve_searchsploit          |")
-        print ("| Copyright 2022, Anant Kaul |")
+        print ("|     Copyright 2022, Anant Kaul     |")
         print ("+------------------------------------+")
         print ("")
         print ("Usage:")

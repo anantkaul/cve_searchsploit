@@ -8,7 +8,7 @@ Here you can get a free cve to exploit-db mapping in json format.
 
 ## Install
 
-#### from PyPI
+#### from PyPI (Not recomended)
 
 ```
 $ pip3 install cve_searchsploit
@@ -65,11 +65,11 @@ If you use this tool in your academic work you can cite it using
 
 ```bibtex
 @Misc{cve_searchsploit,
-  author       = {Andrea Fioraldi},
+  author       = {Anant Kaul},
   howpublished = {GitHub},
-  month        = jun,
+  month        = march,
   title        = {{CVE SearchSploit}},
-  year         = {2017},
-  url          = {https://github.com/andreafioraldi/cve_searchsploit},
+  year         = {2022},
+  url          = {https://github.com/anantkaul/cve_searchsploit},
 }
 ```
